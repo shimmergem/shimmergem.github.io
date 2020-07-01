@@ -1,13 +1,13 @@
 {
-  "name": "全屏时钟2",
-  "short_name": "时钟2",
+  "name": "番茄钟",
+  "short_name": "番茄钟",
   "start_url": "/",
   "display": "fullscreen",
   "description": "一个搜索图书的小WebAPP（基于豆瓣开放接口）",
   "orientation": "portrait",
   "icons": [
-    {"src": "https://h5.sinaimg.cn/m/weibo-lite/icon-default-192.png", "sizes": "192x192", "type": "image/png"},
-    {"src": "https://h5.sinaimg.cn/m/weibo-lite/icon-default-512.png", "sizes": "512x512", "type": "image/png"}
+    {"src": "http://m.qpic.cn/psc?/V12J6TGc1vybBN/EpnZ2Lm61bRtWOHnS20OT4DiBYK.hsRYUuyB9ykD6eOQ0BjPnEXkeDcxRtlpzKh.7n7kF2a6HF.oBVT8sCAF0Q!!/b&bo=wADAAMAAwAADCSw!&rf=viewer_4", "sizes": "192x192", "type": "image/png"},
+    {"src": "http://m.qpic.cn/psc?/V12J6TGc1vybBN/EpnZ2Lm61bRtWOHnS20OTy*3e..HPbcTT95KpTcoP8W9dTdEBhvbTsaWd3lCzLbq*7Kq.2*VrIAeNgnArFASZw!!/b&bo=AAIAAgACAAIDCSw!&rf=viewer_4", "sizes": "512x512", "type": "image/png"}
   ],
   "theme_color": "#27292d",
   "background_color": "#000000"
