@@ -6,8 +6,8 @@
   "description": "一个搜索图书的小WebAPP（基于豆瓣开放接口）",
   "orientation": "portrait",
   "icons": [
-    {"src": "https://m.qpic.cn/psc?/V12J6TGc1vybBN/EpnZ2Lm61bRtWOHnS20OT4DiBYK.hsRYUuyB9ykD6eOQ0BjPnEXkeDcxRtlpzKh.7n7kF2a6HF.oBVT8sCAF0Q!!/b&bo=wADAAMAAwAADCSw!&rf=viewer_4", "sizes": "192x192", "type": "image/png"},
-    {"src": "https://m.qpic.cn/psc?/V12J6TGc1vybBN/EpnZ2Lm61bRtWOHnS20OTy*3e..HPbcTT95KpTcoP8W9dTdEBhvbTsaWd3lCzLbq*7Kq.2*VrIAeNgnArFASZw!!/b&bo=AAIAAgACAAIDCSw!&rf=viewer_4", "sizes": "512x512", "type": "image/png"}
+    {"src": "https://wx2.sinaimg.cn/mw690/da8d3154gy1ggbvxlqd6tj205c05cwed.jpg", "sizes": "192x192", "type": "image/png"},
+    {"src": "https://wx3.sinaimg.cn/mw690/da8d3154gy1ggbvxlmtrbj20e80e8mxf.jpg", "sizes": "512x512", "type": "image/png"}
   ],
   "theme_color": "#27292d",
   "background_color": "#000000"
