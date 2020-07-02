@@ -6,8 +6,8 @@
   "description": "一个搜索图书的小WebAPP（基于豆瓣开放接口）",
   "orientation": "portrait",
   "icons": [
-    {"src": "https://wx2.sinaimg.cn/mw690/da8d3154gy1ggbvxlqd6tj205c05cwed.jpg", "sizes": "192x192", "type": "image/png"},
-    {"src": "https://wx3.sinaimg.cn/mw690/da8d3154gy1ggbvxlmtrbj20e80e8mxf.jpg", "sizes": "512x512", "type": "image/png"}
+    {"src": "https://a1.qpic.cn/psc?/V12J6TGc1vybBN/EpnZ2Lm61bRtWOHnS20OT4DiBYK.hsRYUuyB9ykD6eOQ0BjPnEXkeDcxRtlpzKh.7n7kF2a6HF.oBVT8sCAF0Q!!/b&ek=1&kp=1&pt=0&bo=wADAAMAAwAADGTw!&tl=1&vuin=690924393&tm=1593673200&sce=60-2-2&rf=viewer_4", "sizes": "192x192", "type": "image/png"},
+    {"src": "https://a1.qpic.cn/psc?/V12J6TGc1vybBN/EpnZ2Lm61bRtWOHnS20OTy*3e..HPbcTT95KpTcoP8W9dTdEBhvbTsaWd3lCzLbq*7Kq.2*VrIAeNgnArFASZw!!/b&ek=1&kp=1&pt=0&bo=AAIAAgACAAIDGTw!&tl=1&vuin=690924393&tm=1593673200&sce=60-2-2&rf=viewer_4", "sizes": "512x512", "type": "image/png"}
   ],
   "theme_color": "#27292d",
   "background_color": "#000000"
